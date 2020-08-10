@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Customer08_RegistShareList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcb8fee0-7109-49e3-a68f-60c12ddc469f</testCaseGuid>
+   <variable>
+      <defaultValue>'999 CORE'</defaultValue>
+      <description></description>
+      <id>0e71e14c-3c9d-47d8-9199-ea5e0675cd75</id>
+      <masked>false</masked>
+      <name>listName</name>
+   </variable>
+   <variable>
+      <defaultValue>'\\Customer\\Thao tac co ban_PC\\Customer08_RegistShareList\\'</defaultValue>
+      <description></description>
+      <id>b533faf5-5a04-428a-83b3-1b228be74890</id>
+      <masked>false</masked>
+      <name>imageUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>12</defaultValue>
+      <description></description>
+      <id>85b12fe9-c2f2-42ab-be45-90f7610664b7</id>
+      <masked>false</masked>
+      <name>rowToWrite</name>
+   </variable>
+   <variable>
+      <defaultValue>'test1'</defaultValue>
+      <description></description>
+      <id>a88ab7e0-a2f8-482a-826c-8e750c180847</id>
+      <masked>false</masked>
+      <name>participant</name>
+   </variable>
+</TestCaseEntity>
